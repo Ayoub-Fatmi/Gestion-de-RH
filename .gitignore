@@ -1,0 +1,19 @@
+# Ignorer les fichiers générés par l'IDE
+.classpath
+.project
+.settings/
+*.iml
+
+# Ignorer les répertoires générés par la compilation
+/target/
+/build/
+
+# Ignorer les bibliothèques locales
+/lib/
+
+# Fichiers systèmes
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
